@@ -15,4 +15,4 @@ Start the server in the terminal then use Insomnia to modify the database.
 
 ## Test
 
-
+[Untitled_ Jan 23, 2023 8_47 PM.webm](https://user-images.githubusercontent.com/113476563/214198452-ab5e00a7-1f27-4c26-bf0f-ecbefd763a01.webm)
